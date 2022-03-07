@@ -13,7 +13,7 @@ Návod se věnuje primárně urgentní humanitární pomoci, po ní ale bude ná
 - [Komunikace a sdílení informací](#komunikace-a-sd%C3%ADlen%C3%AD-informac%C3%AD)
 - [Finance](#finance)
 - [Posilování kapacity](#posilov%C3%A1n%C3%AD-kapacity)
-- [Jak na zapojování dobrovolníků](##jak-na-zapojov%C3%A1n%C3%AD-dobrovoln%C3%ADk%C5%AF)
+- [Jak na zapojování dobrovolníků](#jak-na-zapojov%C3%A1n%C3%AD-dobrovoln%C3%ADk%C5%AF)
 - [Úvodní nouzová pomoc](#%C3%BAvodn%C3%AD-nouzov%C3%A1-pomoc)
 - [Ubytování](#ubytov%C3%A1n%C3%AD)
 - [Materiální sbírky](#materi%C3%A1ln%C3%AD-sb%C3%ADrky)
@@ -26,7 +26,7 @@ Návod se věnuje primárně urgentní humanitární pomoci, po ní ale bude ná
 - [Bezpečnost](#bezpe%C4%8Dnost)
 - [Zdravotní péče](#zdravotn%C3%AD-p%C3%A9%C4%8De)
 - [Sociální dávky a práce](#soci%C3%A1ln%C3%AD-d%C3%A1vky-a-pr%C3%A1ce)
-- [Nedůvěra k úřadům](##ned%C5%AFv%C4%9Bra-k-%C3%BA%C5%99ad%C5%AFm)
+- [Nedůvěra k úřadům](#ned%C5%AFv%C4%9Bra-k-%C3%BA%C5%99ad%C5%AFm)
 
 ![manuál pomoci](https://raw.githubusercontent.com/stranazelenych/manual/main/manual_pomoci.png)
 
