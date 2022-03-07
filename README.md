@@ -165,3 +165,5 @@ Pokud na nádražích či jiných veřejných místech s pohybem uprchlíků pro
 
  --- 
 *Našli jste chybu, máte odlišnou zkušenosti nebo tip na doplnění? napištze na manual@zeleni.cz*
+
+*Obsah manuálu můžete volně sdílet a využívat* 
