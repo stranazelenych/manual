@@ -28,6 +28,9 @@ Návod se věnuje primárně urgentní humanitární pomoci, po ní ale bude ná
 - Sociální dávky a práce
 - Jazykové kurzy a výuka jazyků
 
+![manuál pomoci](https://raw.githubusercontent.com/stranazelenych/manual/main/manual_pomoci.png)
+
+
 ## Obecné principy pomoci uprchlíkům
 
 - Základní priority humanitární pomoci jsou vždy ochrana života a zdraví, zmírnění utrpení a zachování lidské důstojnosti. Všechny ostatní kroky jsou až za těmito prioritami. 
