@@ -1,5 +1,3 @@
-## Manuál pro města a obce: jak zvládat pomoc uprchlíkům
-
 V oblasti uprchlictví byla Česká republika doposud tranzitní zemí pro ty, kteří mířili dále na západ. Nejen z důvodu silné ukrajinské komunity na svém území se však vlivem aktuálních událostí změní z tranzitní migrační země na cílovou.
 
 Zkušenosti z Německa a dalších zemí ukazují na to, že role měst a obcí při zvládání uprchlické krize je zásadní. V tomto manuálu přinášíme co nejvíce zkušeností a konkrétních rad, jak si se situací poradit.
