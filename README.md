@@ -116,6 +116,8 @@ Návod se věnuje primárně urgentní humanitární pomoci, po ní ale bude ná
 
 - Snažte se monitorovat přítomnost soukromých "zprostředkovatelů", což mohou být problematičtí lidé zapojení do pracovního vykořisťování, kde snaží zneužít zranitelné pozice uprchlíků z Ukrajiny a nabízí třeba ubytování s prací atd. Vždy všechny uprchlíky informujte, aby se v případě pochybností obrátili na úřady a situaci konzultovali.
 
+- V Německu i jiných zemích začala velmi brzy i rychlá stavba kontejnerových ubytování. Zmapujte možnosti, na jakých pozemcích by je u vás bylo možné postavit. 
+
 ## Materiální sbírky
 
 - Pokud to není nezbytně nutné pro nějaké vaše konkrétní potřeby, neorganizujte vlastní materiální sbírky humanitární pomoci. S nimi je spojena velká potřeba organizace, skladování, třídění a převážení. Směřujte občany, kteří chtějí pomoci sbírkami, na organizace jako je [Český červený kříž](https://www.cervenykriz.eu/), které dokážou sbírky administrovat a organizovat mnohem efektivněji než města a obce, a mají sběrná místa po celé ČR. 
