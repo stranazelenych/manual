@@ -179,7 +179,7 @@ Zeptejte se, jak jim můžete pomoci, například příspěvkem na telefoní ná
 
 - Komunikujte občanům praktické rady, jak se mohou zapojit, a to nejen do sbírek, ale i dobrovolnické pomoci. Nasměrujte je na organizace nebo koordinátory a informujte je o tom, že jejich pomoc nemusí být potřebná nyní, ale třeba za několik dní nebo později - abyste předcházeli zklamáním, že se jim nikdo neozval obratem. 
 
-- Komunikujte s dobrovolníky a vyjadřujte jim poděkování, zároveň (po dohodě s nimi) ukazujte veřejně konkrétní příklady toho, jak dobrovolníci pomáhají - pokud občané uvidí, kdo všechno se do pomoci zapojil (například lidé různého věku), více lidí se může mít ochotu přidat ([ukázkové video ze Vsetína](https://fb.watch/bD3TGbEzZk/). 
+- Komunikujte s dobrovolníky a vyjadřujte jim poděkování, zároveň (po dohodě s nimi) ukazujte veřejně konkrétní příklady toho, jak dobrovolníci pomáhají - pokud občané uvidí, kdo všechno se do pomoci zapojil (například lidé různého věku), více lidí se může mít ochotu přidat ([ukázkové video ze Vsetína](https://fb.watch/bD3TGbEzZk/)). 
 
 - Komunikujte také speciálně směrem k rodičům dětí ve školách a školkách, jak zapojení uprchlických dětí ovlivní činnost škol a školek a žádejte je o trpělivost. 
 
