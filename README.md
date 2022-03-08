@@ -201,6 +201,8 @@ Zeptejte se, jak jim můžete pomoci, například příspěvkem na telefoní ná
 
 - Poptejte u místních firem možnost materiální pomoci do škol a školek, například tisk výukových materiálů nebo pořízení nábytku. 
 
+- Přestože střední školy obvykle patří pod kraje, zapojujte je do koordinace a sdílení zkušeností také - jednak se budou potýkat se stejnými problémy (přichází i uprchlíci středoškolského věku), jednak jsou mnohé střední školy velmi aktivní v dobrovolnické pomoci uprchlíkům. 
+
 ## Doprava
 
 - Rozhodněte o tom, že hromadná doprava bude ve vašem městě pro občany Ukrajiny až do odvolání zdarma. Informujte se o tom, zda stejné opatření provedl již váš kraj, a informace o bezplatném využívání MHD předávejte v rámci informačních materiálů uprchlíkům. Poučte o bezplatné dopravě všechny zaměstnance dopravců, zejména řidiče.
