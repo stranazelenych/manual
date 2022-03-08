@@ -6,7 +6,8 @@ V první fázi bude nápor uprchlíků směrovat do velkých měst. Je ale na m�
 
 Návod se věnuje primárně urgentní humanitární pomoci, po ní ale bude následovat i pomoc v podobě integrace. S obojím mají česká města jen malé zkušenosti a často nemají na tuto činnost potřebné kapacity. Návod se tak věnuje také rozšiřování kapacit v podobě zapojování dobrovolníků, neziskových organizací a dalších částí občanské společnosti, stejně jako na způsoby sdílení zkušeností.
 
-### Obsah manuálu
+### Obsah manuálu 
+*(Odkaz vás posune níže na stránce na příslušnou kapitolu. Doporučujeme ale manuál přečíst celý.)*
 - [Obecné principy pomoci uprchlíkům](#obecn%C3%A9-principy-pomoci-uprchl%C3%ADk%C5%AFm)
 - [Komunikace a sdílení informací](#komunikace-a-sd%C3%ADlen%C3%AD-informac%C3%AD)
 - [Finance](#finance)
