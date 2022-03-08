@@ -90,7 +90,7 @@ Návod se věnuje primárně urgentní humanitární pomoci, po ní ale bude ná
 
 - Nastavte systém obsluhy tohoto místa, zapojte do něj dobrovolníky a nezapomeňte na pravidelný a častý úklid, doplňování zásob, dostatek zásuvek a nabíječek pro dobíjení mobilů, dostatek materiálu pro osobní a dětskou hygienu, koutek pro kojení a přebalování dětí, drobnosti pro děti jako dárky nebo informační materiály v ukrajinštině. 
 
-- Pokud budou uprchlíci ve městě zůstávat, informujte je o potřebných krocích týkajících se registrace a vystavení víza, a pokud je to potřeba, zajistěte jim asistenci nebo potřebné informace například o tom, kde najdou nejbližší pobočky příslušných úřadů. Podrobné informace v češtině i ukrajinštině včetně příslušných formulářů jsou na webu [Ministerstva vnitra](https://www.mvcr.cz/clanek/informace-pro-obcany-ukrajiny.aspx).
+- Pokud budou uprchlíci ve městě zůstávat, informujte je o potřebných krocích týkajících se registrace a vystavení víza, a pokud je to potřeba, zajistěte jim asistenci nebo potřebné informace například o tom, kde najdou nejbližší pobočky příslušných úřadů nebo nejbližší [Krajská asistenční centra](https://www.mvcr.cz/clanek/seznam-kontaktnich-asistencnich-center-pomoci-ukrajine.aspx). Podrobné informace v češtině i ukrajinštině včetně příslušných formulářů jsou na webu [Ministerstva vnitra](https://www.mvcr.cz/clanek/informace-pro-obcany-ukrajiny.aspx).
 
 ## Ubytování
 
@@ -222,7 +222,7 @@ Pokud na nádražích či jiných veřejných místech s pohybem uprchlíků pro
 
 ## Zdravotní péče
 
-- Jak držitelé tzv. víza za účelem strpění, tak žadatelé o azyl mají nárok na veřejné zdravotní pojištění v plném rozsahu péče. Tyto osoby  se musí od udělení víza či podání žádosti o azyl do 5 dnů dostavit na jakoukoliv [pobočku VZP](https://www.vzp.cz/kontakty/pobocky) a vyzvednout si [potvrzení o pojištění](https://media.vzpstatic.cz/media/Default/clanky/prukazy-pojistence/potvrzeni_docasne_nahrazujici_ehic.pdf). V případě, že osoba potřebuje neodkladnou péči dříve, než potvrzení získá, by se u lékaře měla prokázat alespoň platným cestovním dokladem a přiděleným vízem za účelem strpění pobytu. Více informací [o zdravotní péči a informace pro lékaře](https://migracnikonsorcium.cz/cs/pro-lekare-uprchlici-z-ukrajiny-a-zdravi/).
+- Jak držitelé tzv. víza za účelem strpění, tak žadatelé o azyl mají nárok na veřejné zdravotní pojištění v plném rozsahu péče. Tyto osoby se musí od udělení víza či podání žádosti o azyl do 5 dnů dostavit na jakoukoliv [pobočku VZP](https://www.vzp.cz/kontakty/pobocky) a vyzvednout si [potvrzení o pojištění](https://media.vzpstatic.cz/media/Default/clanky/prukazy-pojistence/potvrzeni_docasne_nahrazujici_ehic.pdf). Tuto agentu je často možné vyžídit i přímo na nejbližším [Krajském asistenčním centru](https://www.mvcr.cz/clanek/seznam-kontaktnich-asistencnich-center-pomoci-ukrajine.aspx). V případě, že osoba potřebuje neodkladnou péči dříve, než potvrzení získá, by se u lékaře měla prokázat alespoň platným cestovním dokladem a přiděleným vízem za účelem strpění pobytu. Více informací [o zdravotní péči a informace pro lékaře](https://migracnikonsorcium.cz/cs/pro-lekare-uprchlici-z-ukrajiny-a-zdravi/).
 
 - Zmapujte kapacity zejména praktických lékařů ve městě, aby lidé na záchytném místě nebo koordinátoři pomoci měli kam posílat uprchlíky v případě zdravotních problémů.
 
