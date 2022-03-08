@@ -49,7 +49,7 @@ Návod se věnuje primárně urgentní humanitární pomoci, po ní ale bude ná
 
 - Zapojujte se do koordinace informací z úrovně kraje v rámci krizových štábů a snažte se vytvořit také komunikační kanály na nejbližší města a obce, abyste se informovali o aktuální situaci a mohli si navzájem vypomoci. Využijte také existující struktury, například Místních akčních skupin nebo mikroregionů.
 
-- Získejte přístup k centrální databázi pomoci z webu www.pomocukrajine.cz. Vyplňte základní informace o své organizaci v tomto formuláři. Bude vám vytvořen vám přístup do databáze a budete moci využívat konkrétních nabídek pomoci. Platforma je provozována Konsorciem nevládních organizací pracujících s migranty v ČR. Je možné se zaregistrovat i na pomahejukrajine@migracnikonsorcium.cz.
+- Získejte přístup k centrální databázi pomoci z webu [www.pomocukrajine.cz](https://www.pomocukrajine.cz). Vyplňte základní informace o své organizaci v tomto formuláři. Bude vám vytvořen vám přístup do databáze a budete moci využívat konkrétních nabídek pomoci. Platforma je provozována Konsorciem nevládních organizací pracujících s migranty v ČR. Je možné se zaregistrovat i na **pomahejukrajine@migracnikonsorcium.cz**.
 
 ## Finance
 
@@ -99,7 +99,7 @@ Návod se věnuje primárně urgentní humanitární pomoci, po ní ale bude ná
 
 - U ubytování, které je možné využít jen za úplatu, se snažte najít financování, které by nezbytné náklady pokrylo, ať už z vlastních zdrojů nebo od dárců. Je pravděpodobné, že stát v brzké době vyčlení peníze na náklady ubytování.
 
-- Využijte nabídky ubytování z webu www.pomocukrajine.cz
+- Využijte nabídky ubytování z webu [www.pomocukrajine.cz](https://www.pomocukrajine.cz)
 
 - Speciální pozornost věnujte lidem s handicapem či jiným omezením a snažte se jim přednostně najít ubytování odpovídající jejich speciálním potřebám.
 
@@ -145,9 +145,9 @@ Návod se věnuje primárně urgentní humanitární pomoci, po ní ale bude ná
 
 ## Psychická pohoda a práce s komunitou
 
-- Informujte uprchlíky o tom, že je v Česku možné poslouchat rozhlas v ukrajinštině: mujrozhlas.cz/ukrajina 
+- Informujte uprchlíky o tom, že je v Česku možné poslouchat rozhlas v ukrajinštině: [mujrozhlas.cz/ukrajina](https://mujrozhlas.cz/ukrajina)
 
-- Zapojte knihovny, vznikl [text pro leták v češtině i ukrajinštině](https://www.mvk.cz/aktuality/knihovna-s-ukrajinou), na co všechno mohou uprchlíci knihovny využít. Vznikl také web knihoven zaměřený na děti: ukrajina.knihovny.cz
+- Zapojte knihovny, vznikl [text pro leták v češtině i ukrajinštině](https://www.mvk.cz/aktuality/knihovna-s-ukrajinou), na co všechno mohou uprchlíci knihovny využít. Vznikl také web knihoven zaměřený na děti: [ukrajina.knihovny.cz](https://ukrajina.knihovny.cz)
 
 - Dohodněte s některou organizací, knihovnou či podobnou institucí, aby vyčlenila místo na pravidelné setkávání uprchlíků, místo kam mohou chodit. Uprchlíci z různých míst se mohou v bezpečném prostředí setkávat, vyměňovat informace a je možné s nimi komunikovat a zjišťovat jejich potřeby, například je informovat o pracovních místech či situaci ve školkách. Nezapomeňte na poskytnutí dobrovolnického a informačního servisu pro tyto místa, drobného občerstvení nebo prostoru pro děti. Je možné zavést například pravidelná informační setkání jednou týdně s účasti zástupců města a spolků,, prostor by ale měl být přístupný co nejvíc.
 
@@ -194,7 +194,7 @@ Zeptejte se, jak jim můžete pomoci, například příspěvkem na telefoní ná
 
 - Zmapujte potřeby navýšení financování škol a školek pro stravování či jiné materiální potřeby.
 
-- Nabídněte školám a školkám přístup k nejrůznějším výukovým materiálům, jejich přehled najdete například na stránce https://www.edu.cz/ukrajina/. 
+- Nabídněte školám a školkám přístup k nejrůznějším výukovým materiálům, jejich přehled najdete například na stránce [https://www.edu.cz/ukrajina/](https://www.edu.cz/ukrajina/). 
 
 - Poptejte u místních firem možnost materiální pomoci do škol a školek, například tisk výukových materiálů nebo pořízení nábytku. 
 
