@@ -50,7 +50,7 @@ Návod se věnuje primárně urgentní humanitární pomoci, po ní ale bude ná
 
 - Zapojujte se do koordinace informací z úrovně kraje v rámci krizových štábů a snažte se vytvořit také komunikační kanály na nejbližší města a obce, abyste se informovali o aktuální situaci a mohli si navzájem vypomoci. Využijte také existující struktury, například Místních akčních skupin nebo mikroregionů.
 
-- Získejte přístup k centrální databázi pomoci z webu [www.pomocukrajine.cz](https://www.pomocukrajine.cz). Vyplňte základní informace o své organizaci v tomto formuláři. Bude vám vytvořen vám přístup do databáze a budete moci využívat konkrétních nabídek pomoci. Platforma je provozována Konsorciem nevládních organizací pracujících s migranty v ČR. Je možné se zaregistrovat i na **pomahejukrajine@migracnikonsorcium.cz**.
+- Získejte přístup k centrální databázi pomoci z webu [www.pomahejukrajine.cz/](https://www.pomahejukrajine.cz/). Vyplňte základní informace o své organizaci v tomto formuláři. Bude vám vytvořen vám přístup do databáze a budete moci využívat konkrétních nabídek pomoci. Platforma je provozována Konsorciem nevládních organizací pracujících s migranty v ČR. Je možné se zaregistrovat i na **pomahejukrajine@migracnikonsorcium.cz**.
 
 ## Finance
 
@@ -100,7 +100,7 @@ Návod se věnuje primárně urgentní humanitární pomoci, po ní ale bude ná
 
 - U ubytování, které je možné využít jen za úplatu, se snažte najít financování, které by nezbytné náklady pokrylo, ať už z vlastních zdrojů nebo od dárců. Je pravděpodobné, že stát v brzké době vyčlení peníze na náklady ubytování.
 
-- Využijte nabídky ubytování z webu [www.pomocukrajine.cz](https://www.pomocukrajine.cz)
+- Využijte nabídky ubytování z webu [www.pomahejukrajine.cz](https://www.pomahejukrajine.cz)
 
 - Speciální pozornost věnujte lidem s handicapem či jiným omezením a snažte se jim přednostně najít ubytování odpovídající jejich speciálním potřebám.
 
