@@ -104,13 +104,13 @@ Návod se věnuje primárně urgentní humanitární pomoci, po ní ale bude ná
 
 - Speciální pozornost věnujte lidem s handicapem či jiným omezením a snažte se jim přednostně najít ubytování odpovídající jejich speciálním potřebám.
 
-- Vyzvěte občany města, aby nabídli své ubytovací kapacity, zároveň je ale informujte o tom, co všechno musí při takové nabídce zvážit. Jednotlivé otázky najdete velmi dobře zpracované například v tomto dokumentu. Základní otázky pro každého, kdo by chtěl nabídnout ubytování pro uprchlíky.
+- Vyzvěte občany města, aby nabídli své ubytovací kapacity, zároveň je ale informujte o tom, co všechno musí při takové nabídce zvážit. Jednotlivé otázky najdete velmi dobře zpracované například v tomto dokumentu. [Základní otázky pro každého, kdo by chtěl nabídnout ubytování pro uprchlíky](https://migracnikonsorcium.cz/cs/zakladni-otazky-pro-kazdeho-kdo-by-chtel-nabidnout-ubytovani-pro-uprchliky/).
 
 - Vyjdete jako město rozhodnutí, že občané Ukrajiny, kteří se ubytují v ubytovacích zařízeních jako jsou hotely, nemusí platit ubytovací poplatek.
 
 - Nezapomeňte monitorovat i nabídku ubytování v okolí města (například skrze Místní akční skupiny), nicméně počítejte s tím, že ubytování v odlehlých oblastech (například horské chaty) může způsobit další komplikace v poskytování jiné pomoci nebo přístupu do škol či školek.
 
-- Pokud na to máte kapacity a ukáže se taková poptávka, zřiďte po vzoru Brna či jiných měst nábytkovou banku, kam lidé mohou dovézt potřebný nábytek či spotřebiče. Pozor, je to náročné na prostory a lidské kapacity, snažte se proto využít již existující struktury nejrůznějších Technických služeb a jiných podobných organizací, případně spolupráce s firmami, které mají skladové prostory, techniku a lidskou sílu na stěhování a manipulaci. Upozorňujte dárce nábytku, že to není příležitost zbavit se starého nábytku, protože nepoužitelný nábytek všem je problémy přidělává.
+- Pokud na to máte kapacity a ukáže se taková poptávka, zřiďte po vzoru Brna či jiných měst nábytkovou banku (re-use centrum), kam lidé mohou dovézt potřebný nábytek či spotřebiče. Pozor, je to náročné na prostory a lidské kapacity, snažte se proto využít již existující struktury nejrůznějších Technických služeb a jiných podobných organizací, případně spolupráce s firmami, které mají skladové prostory, techniku a lidskou sílu na stěhování a manipulaci. Upozorňujte dárce nábytku, že to není příležitost zbavit se starého nábytku, protože nepoužitelný nábytek všem je problémy přidělává.
 
 - Pokud zařízení na ubytování uprchlíků nemá vlastní kapacity na praní prádla, snažte se uprchlíkům zprostředkovat tyto služby, například využitím prádelen zdravotních nebo sociálních zařízení, využitím veřejných pracích služeb nebo vybudováním improvizované prádelny.
 
