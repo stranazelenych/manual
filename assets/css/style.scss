@@ -2,7 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
+BODY {color:#000;}
 UL LI {margin-bottom:10px;}
 .btn {display:none;}
 .site-footer {display:none;}
-A [text-decoration:underline;]
+A {text-decoration:underline;}
