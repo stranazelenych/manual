@@ -106,7 +106,7 @@ Návod se věnuje primárně urgentní humanitární pomoci, po ní ale bude ná
 
 - Vyzvěte občany města, aby nabídli své ubytovací kapacity, zároveň je ale informujte o tom, co všechno musí při takové nabídce zvážit. Jednotlivé otázky najdete velmi dobře zpracované například v tomto dokumentu. [Základní otázky pro každého, kdo by chtěl nabídnout ubytování pro uprchlíky](https://migracnikonsorcium.cz/cs/zakladni-otazky-pro-kazdeho-kdo-by-chtel-nabidnout-ubytovani-pro-uprchliky/).
 
-- Vyjdete jako město rozhodnutí, že občané Ukrajiny, kteří se ubytují v ubytovacích zařízeních jako jsou hotely, nemusí platit ubytovací poplatek.
+- Vydejte jako město rozhodnutí, že občané Ukrajiny, kteří se ubytují v ubytovacích zařízeních jako jsou hotely, nemusí platit ubytovací poplatek.
 
 - Nezapomeňte monitorovat i nabídku ubytování v okolí města (například skrze Místní akční skupiny), nicméně počítejte s tím, že ubytování v odlehlých oblastech (například horské chaty) může způsobit další komplikace v poskytování jiné pomoci nebo přístupu do škol či školek.
 
