@@ -1,7 +1,4 @@
 theme: jekyll-theme-cayman
 show_downloads: false
 title: Uprchlický manuál pro města a obce
-description: Rady a zkušenosti měst z pomoci uprchlíkům. Připravila Strana zelených.¨
-
-- name: Build your docs with DocsAsCode
-  uses: docascod/actions-build@1.0
+description: Rady a zkušenosti měst z pomoci uprchlíkům. Připravila Strana zelených.
