@@ -4,7 +4,7 @@ Zkušenosti z Německa a dalších zemí ukazují na to, že role měst a obcí 
 
 V první fázi bude nápor uprchlíků směrovat do velkých měst. Je ale na místě očekávat, že pomoc bude potřeba realizovat i v menších městech - zejména proto, že velká města brzy nebudou se svými kapacitami stačit. Na pomoc bychom se tak měli připravit všude.
 
-Návod se věnuje primárně urgentní humanitární pomoci, po ní ale bude následovat i pomoc v podobě integrace. S obojím mají česká města jen malé zkušenosti a často nemají na tuto činnost potřebné kapacity. Návod se tak věnuje také rozšiřování kapacit v podobě zapojování dobrovolníků, neziskových organizací a dalších částí občanské společnosti, stejně jako na způsoby sdílení zkušeností.
+Návod se věnuje primárně urgentní humanitární pomoci, po ní ale bude následovat i pomoc v podobě integrace. S obojím mají česká města jen malé zkušenosti a často nemají na tuto činnost potřebné kapacity. Návod se tak věnuje také rozšiřování kapacit v podobě zapojování dobrovolníků, neziskových organizací a dalších částí občanské společnosti, stejně jako na způsoby sdílení zkušeností. 
 
 ### Obsah manuálu 
 *(Odkaz vás posune níže na stránce na příslušnou kapitolu. Doporučujeme ale manuál přečíst celý.)*
