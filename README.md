@@ -140,7 +140,7 @@ Návod se věnuje primárně urgentní humanitární pomoci, po ní ale bude ná
 
 - Zmapujte všechny s potřebnými jazykovými schopnostmi, zejména učitele základních a středních škol, soukromé jazykové školy, firmy, které mají lidi hovořící těmito jazyky. Požádejte školy o kontakty na své bývalé učitele ruštiny v důchodu.
 
-- Pokud si evidujete seznamy ubytovaných uprchlíků ve vašem městě, uložte si u nich informace, jakými jazyky hovoří (včetně např. angličtiny či němčiny), aby bylo možné tyto jazyky využívat pokud nebude k dispozici nikdo s ukrajinštinou nebo ruštinou, nebo v případě hledání práce.
+- Pokud si evidujete seznamy ubytovaných uprchlíků ve vašem městě, uložte si u nich informace, jakými jazyky hovoří (včetně např. angličtiny či němčiny), aby bylo možné tyto jazyky využívat pokud nebude k dispozici nikdo s ukrajinštinou nebo ruštinou, nebo v případě hledání práce. Pokud je to možné, uložte si také informace o vzdělání a profesi.
 
 - Snažte se najít kapacity pro výuku češtiny pro uprchlíky. I pokud by zde měli zůstat jen několik měsíců, pomůže jim výuka češtiny situaci lépe zvládat. Snažte se oslovit pedagogy v důchodu či studenty příslušných fakult pro zapojení, poskytněte městské prostory či školní třídy pro jednotlivé kurzy a zajistěte během kurzů také hlídání dětí. 
 
